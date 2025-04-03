@@ -1,0 +1,162 @@
+{
+  "openai": [
+    {
+      "name": "o3-mini",
+      "description": "OpenAI o3-mini model"
+    },
+    {
+      "name": "o1-pro",
+      "description": "OpenAI o1-pro model"
+    },
+    {
+      "name": "o1",
+      "description": "OpenAI o1 model"
+    },
+    {
+      "name": "gpt-4.5-preview",
+      "description": "OpenAI GPT-4.5 Preview model"
+    },
+    {
+      "name": "gpt-4o",
+      "description": "OpenAI GPT-4o model"
+    },
+    {
+      "name": "gpt-4o-mini",
+      "description": "OpenAI GPT-4o mini model"
+    }
+  ],
+  "anthropic": [
+    {
+      "name": "claude-3-7-sonnet-20250219",
+      "description": "Claude 3.7 Sonnet (February 2025 version)"
+    },
+    {
+      "name": "claude-3-opus-20240229",
+      "description": "Claude 3 Opus (February 2024 version)"
+    },
+    {
+      "name": "claude-3-5-sonnet-20241022",
+      "description": "Claude 3.5 Sonnet (October 2024 version)"
+    },
+    {
+      "name": "claude-3-5-haiku-20241022",
+      "description": "Claude 3.5 Haiku (October 2024 version)"
+    },
+    {
+      "name": "claude-3-5-sonnet-20240620",
+      "description": "Claude 3.5 Sonnet (June 2024 version)"
+    },
+    {
+      "name": "claude-3-haiku-20240307",
+      "description": "Claude 3 Haiku (March 2024 version)"
+    }
+  ],
+  "google": [
+    {
+      "name": "gemini-2.5-pro-exp-03-25",
+      "description": "Google Gemini 2.5 Pro Experimental (March 2025 version)"
+    },
+    {
+      "name": "gemini-2.0-flash",
+      "description": "Google Gemini 2.0 Flash model"
+    },
+    {
+      "name": "gemini-2.0-flash-lite",
+      "description": "Google Gemini 2.0 Flash Lite model"
+    },
+    {
+      "name": "gemini-1.5-pro",
+      "description": "Google Gemini 1.5 Pro model"
+    },
+    {
+      "name": "gemini-1.5-flash",
+      "description": "Google Gemini 1.5 Flash model"
+    },
+    {
+      "name": "gemini-1.5-flash-8b",
+      "description": "Google Gemini 1.5 Flash 8B model"
+    }
+  ],
+  "deepseek": [
+    {
+      "name": "deepseek-chat",
+      "description": "DeepSeek Chat model"
+    },
+    {
+      "name": "deepseek-reasoner",
+      "description": "DeepSeek Reasoner model"
+    }
+  ],
+  "perplexity": [
+    {
+      "name": "sonar-pro",
+      "description": "Advanced search offering with grounding, supporting complex queries and follow-ups"
+    },
+    {
+      "name": "sonar",
+      "description": "Lightweight, cost-effective search model with grounding"
+    },
+    {
+      "name": "sonar-deep-research",
+      "description": "Expert-level research model conducting exhaustive searches and generating comprehensive reports"
+    },
+    {
+      "name": "sonar-reasoning-pro",
+      "description": "Premier reasoning offering powered by DeepSeek R1 with Chain of Thought (CoT)"
+    },
+    {
+      "name": "sonar-reasoning",
+      "description": "Fast, real-time reasoning model designed for quick problem-solving with search"
+    },
+    {
+      "name": "r1-1776",
+      "description": "A version of DeepSeek R1 post-trained for uncensored, unbiased, and factual information"
+    }
+  ],
+  "qwen": [
+    {
+      "name": "qwq-plus",
+      "description": "QwQ reasoning model with enhanced reasoning capabilities"
+    },
+    {
+      "name": "qwen-max",
+      "description": "Best inference performance for complex and multi-step tasks"
+    },
+    {
+      "name": "qwen-max-latest",
+      "description": "Latest version of Qwen-Max model"
+    },
+    {
+      "name": "qwen-max-2025-01-25",
+      "description": "Qwen2.5-Max snapshot from January 2025"
+    },
+    {
+      "name": "qwen-plus",
+      "description": "Balanced performance, speed, and cost for moderately complex tasks"
+    },
+    {
+      "name": "qwen-plus-latest",
+      "description": "Latest version of Qwen-Plus model"
+    },
+    {
+      "name": "qwen-plus-2025-01-25",
+      "description": "Qwen-Plus snapshot from January 2025"
+    },
+    {
+      "name": "qwen-turbo",
+      "description": "Fast speed and low cost for simple tasks"
+    },
+    {
+      "name": "qwen-turbo-latest",
+      "description": "Latest version of Qwen-Turbo model"
+    },
+    {
+      "name": "qwen-turbo-2024-11-01",
+      "description": "Qwen-Turbo snapshot from November 2024"
+    },
+    {
+      "name": "qwen-vl-max",
+      "description": "Qwen visual language model for image understanding and processing"
+    }
+  ]
+}
